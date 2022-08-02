@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cc44b8c2.css",
+    "main.js": "/static/js/main.9768b1de.js",
+    "static/js/787.9b27a1d2.chunk.js": "/static/js/787.9b27a1d2.chunk.js",
+    "static/media/main-video.mp4": "/static/media/main-video.c38ae6bfbc9136256f53.mp4",
+    "static/media/nfts.mp4": "/static/media/nfts.ce52685958e9530367cd.mp4",
+    "static/media/event.mp4": "/static/media/event.63d41c56318662a8a789.mp4",
+    "static/media/scn2.png": "/static/media/scn2.e88a0ebf9339c78066a3.png",
+    "static/media/scn.png": "/static/media/scn.5ddbf04da8c532891ed2.png",
+    "static/media/scn3.png": "/static/media/scn3.9313dd0cbac117991f23.png",
+    "static/media/logolarge.webp": "/static/media/logolarge.a92b39067ff2a4ea2255.webp",
+    "static/media/logoRound.png": "/static/media/logoRound.b0651d142ddf7fc54ed0.png",
+    "static/media/clockBack.png": "/static/media/clockBack.fd414cb0d77926031d08.png",
+    "static/media/chart1.png": "/static/media/chart1.1d2f2dcf2a03071b3c56.png",
+    "static/media/chart2.png": "/static/media/chart2.28c833bc391121671b3f.png",
+    "static/media/chart3.png": "/static/media/chart3.4cab331e86158791a757.png",
+    "static/media/kingLogo.png": "/static/media/kingLogo.348cd00572f7b0495072.png",
+    "index.html": "/index.html",
+    "main.cc44b8c2.css.map": "/static/css/main.cc44b8c2.css.map",
+    "main.9768b1de.js.map": "/static/js/main.9768b1de.js.map",
+    "787.9b27a1d2.chunk.js.map": "/static/js/787.9b27a1d2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc44b8c2.css",
+    "static/js/main.9768b1de.js"
+  ]
+}
