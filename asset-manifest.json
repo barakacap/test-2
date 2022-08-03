@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.cc44b8c2.css",
-    "main.js": "/static/js/main.9768b1de.js",
+    "main.css": "/static/css/main.9a2beb33.css",
+    "main.js": "/static/js/main.a55699f4.js",
     "static/js/787.9b27a1d2.chunk.js": "/static/js/787.9b27a1d2.chunk.js",
     "static/media/main-video.mp4": "/static/media/main-video.c38ae6bfbc9136256f53.mp4",
+    "static/media/metaverse.mp4": "/static/media/metaverse.1441333a0df3df4545b5.mp4",
     "static/media/nfts.mp4": "/static/media/nfts.ce52685958e9530367cd.mp4",
     "static/media/event.mp4": "/static/media/event.63d41c56318662a8a789.mp4",
     "static/media/scn2.png": "/static/media/scn2.e88a0ebf9339c78066a3.png",
@@ -17,12 +18,12 @@
     "static/media/chart3.png": "/static/media/chart3.4cab331e86158791a757.png",
     "static/media/kingLogo.png": "/static/media/kingLogo.348cd00572f7b0495072.png",
     "index.html": "/index.html",
-    "main.cc44b8c2.css.map": "/static/css/main.cc44b8c2.css.map",
-    "main.9768b1de.js.map": "/static/js/main.9768b1de.js.map",
+    "main.9a2beb33.css.map": "/static/css/main.9a2beb33.css.map",
+    "main.a55699f4.js.map": "/static/js/main.a55699f4.js.map",
     "787.9b27a1d2.chunk.js.map": "/static/js/787.9b27a1d2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cc44b8c2.css",
-    "static/js/main.9768b1de.js"
+    "static/css/main.9a2beb33.css",
+    "static/js/main.a55699f4.js"
   ]
 }
